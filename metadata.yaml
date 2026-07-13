@@ -1,0 +1,5 @@
+name: "随机兽图"
+version: "1.0.0"
+description: "从 furry.axzt.top 获取随机福瑞图片并自动发送到qq"
+author: "wenwen3568"
+astrbot_version: ">=3.0.0"
