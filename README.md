@@ -1,8 +1,13 @@
 <div align="center">
-[![Moe Counter](https://count.getloli.com/get/@furry-photo?theme=moebooru)](https://github.com/wenwen3568/astrbot-random-furry/) 
-</ div >
+
+[![Moe Counter](https://count.getloli.com/get/@furry-photo?theme=moebooru)](https://github.com/wenwen3568/astrbot-random-furry/)
+
+</div>
+
 # astrbot-random-furry
-AstrBot 插件获取随机福瑞图片并自动发送到qq
+
+AstrBot 插件获取随机福瑞图片并自动发送到 QQ
+
 # 🐾 AstrBot 随机兽图插件
 
 从 [furry.axzt.top](https://furry.axzt.top) 获取随机福瑞图片，并自动保存到指定目录。
